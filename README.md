@@ -4,7 +4,7 @@ I was looking for some open socks proxies, and so I needed to test them - but re
 ### Installation
 If you have a properly configured GOPATH and $GOPATH/bin is in your PATH, then run this command for a one-liner install, thank you golang!
 ```
-go get -u github.com/pry0cc/soxy
+go install github.com/pry0cc/soxy@latest
 ```
 
 ### Usage
